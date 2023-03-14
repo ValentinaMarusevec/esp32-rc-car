@@ -1,6 +1,6 @@
 # Smart Car application
 Smart Car is a mobile application for the Android platform whose purpose is to the remote control of ESP32 Cam Robot Car. This application was made by Stella Lončarić, Lucija Miroić and me.
-Technologies used in the development: Android Studio (Java), Github, Firebase, Figma, Arduino, Wi-Fi
+Technologies used in the development: Android Studio (Java), Firebase, Figma, Arduino, Wi-Fi
 # Application prototype
 ![image](https://user-images.githubusercontent.com/65660487/225047794-3d37a838-f472-4bf5-802c-bee33d3619fe.png)
 # Functionalities
