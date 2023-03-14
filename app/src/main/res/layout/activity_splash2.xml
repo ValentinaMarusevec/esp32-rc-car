@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#030D2E"
+    tools:context=".SplashActivity">
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="Remote control of your car"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/splash_screen_title_text_size2"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/app_name"
+            android:textColor="#FFD247"
+            android:textSize="@dimen/splash_screen_title_text_size"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="789px"
+            android:layout_height="381px"
+            android:scaleType="fitXY"
+            android:src="@drawable/smartcar"></ImageView>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+
+

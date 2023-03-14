@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Overview"
+        android:title="Overview"
+        android:icon="@drawable/overviewicon" />
+
+    <item android:id="@+id/DrivingControl"
+        android:title="Driving and Control"
+        android:icon="@drawable/drivingicon" />
+
+    <item android:id="@+id/More"
+        android:title="More"
+        android:icon="@drawable/moreicon" />
+
+</menu>

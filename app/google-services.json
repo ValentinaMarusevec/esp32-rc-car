@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57460183051",
+    "project_id": "smartcar-ad81f",
+    "storage_bucket": "smartcar-ad81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57460183051:android:9ecab87a55495504f0770e",
+        "android_client_info": {
+          "package_name": "com.jcc.smartcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57460183051-b3mn59op8md376kbdrun1c8r9nkfridd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jcc.smartcar",
+            "certificate_hash": "8d9d20791f03cd76241b22586d20130d6cfed28d"
+          }
+        },
+        {
+          "client_id": "57460183051-ok6m4f77s79dv4g0t789fdt1tsq5a1cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSB3KU3vPqRjAfgp_q1dRS_6YzxOLc-vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57460183051-ok6m4f77s79dv4g0t789fdt1tsq5a1cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

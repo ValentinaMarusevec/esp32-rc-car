@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="forward_btn" type="id" />
+    <item name="forward_left_btn" type="id" />
+    <item name="forward_right_btn" type="id" />
+    <item name="reverse_btn" type="id" />
+    <item name="wifi_connect_btn" type="id" />
+    <item name="light_off_btn" type="id" />
+    <item name="light_on_btn" type="id" />
+    <item name="camera_in_btn" type="id" />
+    <item name="speed_up_btn" type="id" />
+    <item name="speed_down_btn" type="id" />
+</resources>
